@@ -79,7 +79,7 @@
 | [LifeActor/Claude_zh-CN_LanguagePack](https://github.com/LifeActor/Claude_zh-CN_LanguagePack) | 5 | 未声明 |
 | [good9527/Claude-Desktop-Chinese](https://github.com/good9527/Claude-Desktop-Chinese) | 2 | MIT |
 | [lijunyu726/ClaudeDesktop-SimplifiedChinese](https://github.com/lijunyu726/ClaudeDesktop-SimplifiedChinese) | 1 | MIT |
-
+（本人脑抽用10块搓个这个）（哭的很大声）
 - 上游未声明许可证的部分，版权归各自作者所有；若原作者有异议，本项目将立即移除对应内容。
 - 本项目**新增的译文**（15,814 条）与脚本可自由使用（MIT / CC0 任选）。
 
